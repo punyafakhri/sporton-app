@@ -1,6 +1,6 @@
 # 👟 SPORTON - Premium Sportswear E-Commerce
 
-Proyek ini adalah implementasi **Live Session 2: Slicing Landing & UI Components** menggunakan React.js. Web ini mencakup alur belanja lengkap dari pemilihan produk hingga proses pembayaran.
+Proyek ini adalah implementasi **Live Session** menggunakan React.js. Web ini mencakup alur belanja lengkap dari pemilihan produk hingga proses pembayaran.
 
 ## 🚀 Live Demo
 Akses link produksi di sini: [Link Vercel Anda]([https://sporton-m00rnhzsi-muhammad-fakhri-aldiansyahs-projects.vercel.app](https://sporton-app.vercel.app/))
