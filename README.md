@@ -4,8 +4,8 @@ Platform e-commerce untuk manajemen produk olahraga dengan fitur customer shoppi
 
 ## 🚀 Live Demo
 
-- **Customer**: [[https://sporton-app.vercel.app](https://sporton-app.vercel.app](https://sporton-app.vercel.app/))
-- **Admin Panel**: [[https://sporton-app.vercel.app/admin/login](https://sporton-app.vercel.app/admin/login](https://sporton-app.vercel.app/admin/login))
+- **Customer**: [[https://sporton-app.vercel.app](https://sporton-app.vercel.app](https://sporton-app.vercel.app/))]
+- **Admin Panel**: [[https://sporton-app.vercel.app/admin/login](https://sporton-app.vercel.app/admin/login](https://sporton-app.vercel.app/admin/login))]
 
 ## ✨ Fitur Utama
 
